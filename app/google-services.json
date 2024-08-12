@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077832766513",
+    "project_id": "usamap-91b25",
+    "storage_bucket": "usamap-91b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077832766513:android:97dee4a64edf3816d3b110",
+        "android_client_info": {
+          "package_name": "com.putri.fauziah.usamapapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bpuHbzMKlIsCh8zLrVbbb0meJY_MHcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

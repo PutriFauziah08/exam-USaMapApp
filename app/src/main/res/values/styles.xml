@@ -1,0 +1,28 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="CustomBtnLogoutStyle" parent="Widget.Material3.Button.IconButton.Filled">
+        <item name="backgroundTint">@color/white</item>
+        <item name="iconTint">@color/black</item>
+    </style>
+
+    <style name="CustomSearchViewStyle" parent="Widget.Material3.SearchView">
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+
+    <style name="CustomBtnMapsStyle" parent="Widget.Material3.Button.IconButton.Filled">
+        <item name="backgroundTint">@color/white</item>
+    </style>
+
+    <style name="CustomToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/black</item> <!-- Change to desired icon color -->
+        <item name="colorControlActivated">@color/black</item> <!-- Change to desired icon color when active -->
+        <item name="colorControlHighlight">@color/black</item> <!-- Change to desired color for highlights -->
+    </style>
+
+    <style name="CustomBtnDirectStyle" parent="Widget.Material3.Button.IconButton.Filled">
+        <item name="backgroundTint">@color/black</item>
+        <item name="iconTint">@color/white</item>
+        <item name="iconSize">36dp</item>
+    </style>
+
+</resources>
